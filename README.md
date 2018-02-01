@@ -1,3 +1,9 @@
+# WARNING
+
+No further development is happening in this repository and there are quite a few situations where sLNKy will break, especially in terms of interacting with SMB shares. The functionality of this utility has been rolled into [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec). You'll be better off using CME! 
+
+It still works fairly well for generating one-off malicious LNK files though.
+
 # What is sLNKy?
 
 sLNKy is a utility that automates the process of generating and dropping malicious LNK files on SMB shares.
